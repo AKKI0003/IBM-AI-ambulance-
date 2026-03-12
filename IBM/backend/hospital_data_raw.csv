@@ -1,0 +1,43 @@
+hospital_id,hospital_name,full_address,total_free_bed,total_free_critical_bed_wo_vent,total_free_critical_bed_with_vent,total_free_non_critical_bed,available_free_critical_bed_wo_vent,available_free_critical_bed_with_vent,available_free_non_critical_bed,last_scrape_date,estimated_wait_time_mins
+3000002,"Action Cancer Hospital, FC-","Action Cancer Hospital, FC-, Delhi, India",12,0,0,0,0,0,0,2025-01-07 00:01:36,45
+3000003,"Kottakkal Arya Vaidya Sala, Karkardooma, Delhi-","Kottakkal Arya Vaidya Sala, Karkardooma, Delhi-, Delhi, India",34,0,0,4,0,1,1,2025-01-07 11:48:24,15
+3000004,"Batra Hospital,","Batra Hospital,, Delhi, India",2,0,0,0,0,0,0,2025-01-07 11:55:25,18
+3000008,"Dr. B.L Kapur Memorial Hospital, Pusa Road,New Delhi-","Dr. B.L Kapur Memorial Hospital, Pusa Road,New Delhi-, Delhi, India",44,4,0,3,0,4,0,2025-01-07 16:57:46,30
+3000009,"Delhi ENT Hospital & Research Centre, Jasola","Delhi ENT Hospital & Research Centre, Jasola, Delhi, India",52,0,0,0,0,0,0,2023-02-02 19:57:24,27
+3000010,FLT. LT. RAJAN DHALL HOSPITAL,"FLT. LT. RAJAN DHALL HOSPITAL, Delhi, India",22,1,1,1,0,1,1,2025-05-04 18:38:04,89
+3000011,Max Smart Super Specialty Hospital,"Max Smart Super Specialty Hospital, Delhi, India",49,5,6,0,1,9,3,2025-01-07 11:42:52,12
+3000014,Mata Channan Devi Hospital,"Mata Channan Devi Hospital, Delhi, India",24,5,8,2,0,0,0,2023-02-02 19:59:27,20
+3000015,Maharaja Agrasen Punjabi Bagh,"Maharaja Agrasen Punjabi Bagh, Delhi, India",10,0,0,6,0,1,1,2025-01-07 12:27:33,29
+3000016,Mai Kamli Wali Ch. Hospital Plot No.,"Mai Kamli Wali Ch. Hospital Plot No., Delhi, India",56,0,0,0,0,0,0,2024-01-09 10:29:04,32
+3000017,"National Chest Institute, Opp. A-","National Chest Institute, Opp. A-, Delhi, India",32,0,0,0,0,0,0,2025-02-07 08:29:57,54
+3000018,"National Heart Institute,","National Heart Institute,, Delhi, India",13,0,0,0,0,0,0,2025-01-07 10:44:53,61
+3000019,"Primus Super Speciality (Veeranwali International Hospital) Chander Gupta Road, Chankapuri, Delhi-","Primus Super Speciality (Veeranwali International Hospital) Chander Gupta Road, Chankapuri, Delhi-, Delhi, India",32,2,0,6,6,2,0,2024-01-02 16:34:09,30
+3000020,"Jeevan Anmol Hospital, Mayur Vihar, Phase-I, Delhi-","Jeevan Anmol Hospital, Mayur Vihar, Phase-I, Delhi-, Delhi, India",15,1,0,7,0,1,1,2024-01-08 12:49:57,45
+3000021,PUSHPAWATI SINGHANIA HOSPITAL & RESERACH INSTITUTE,"PUSHPAWATI SINGHANIA HOSPITAL & RESERACH INSTITUTE, Delhi, India",16,1,1,3,0,1,1,2025-01-07 15:01:56,17
+3000023,"Medeor Hospital,Qutab","Medeor Hospital,Qutab, Delhi, India",17,2,2,2,2,2,2,2024-01-04 12:37:36,49
+3000024,"Saroj Hospital, Sector-","Saroj Hospital, Sector-, Delhi, India",14,0,0,0,0,0,0,2025-01-07 15:40:11,20
+3000025,"Shanti Mukand Hospital,","Shanti Mukand Hospital,, Delhi, India",19,0,0,0,0,0,0,2025-01-07 20:43:02,40
+3000026,Sir Ganga Ram Hospital,"Sir Ganga Ram Hospital, Delhi, India",20,1,3,5,9,0,5,2025-01-07 12:08:53,39
+3000028,"Bhagwati Hospital, C-","Bhagwati Hospital, C-, Delhi, India",52,0,0,0,0,0,0,2025-01-07 16:47:24,28
+3000029,Dharamshila Narayana Superspeciality Hospital,"Dharamshila Narayana Superspeciality Hospital, Delhi, India",35,0,1,0,0,1,1,2025-01-07 15:42:22,56
+3000031,"Fortis Escorts Heart Institute, Okhla Road, New Delhi-","Fortis Escorts Heart Institute, Okhla Road, New Delhi-, Delhi, India",45,3,1,9,0,2,2,2025-01-07 12:47:31,19
+3000032,Max Patparganj,"Max Patparganj, Delhi, India",11,0,1,3,0,2,7,2025-01-07 16:46:02,72
+3000033,Max Saket (East),"Max Saket (East), Delhi, India",42,2,7,2,2,3,6,2025-01-07 16:12:19,90
+3000034,"Jaipur Golden Hospital,","Jaipur Golden Hospital,, Delhi, India",63,0,0,0,0,0,0,2025-01-07 12:32:36,30
+3000035,Sri Balaji Action Medical Institute FC-,"Sri Balaji Action Medical Institute FC-, Delhi, India",35,0,0,0,0,0,0,2025-01-07 11:21:00,60
+3000037,"VIMHANS HOSPITAL,NEHRU NAGAR NEW DELHI","VIMHANS HOSPITAL,NEHRU NAGAR NEW DELHI, Delhi, India",5,6,9,1,5,0,7,2025-01-07 16:13:46,20
+3000038,"Mool Chand Khairati Ram Trust & Hospital, Ring Road Lajpat Nagar, Delhi-","Mool Chand Khairati Ram Trust & Hospital, Ring Road Lajpat Nagar, Delhi-, Delhi, India",35,2,1,9,0,1,1,2025-08-07 10:56:03,22
+3000040,AYUSHMAN HOSPITAL & HEALTH SERVICES,"AYUSHMAN HOSPITAL & HEALTH SERVICES, Delhi, India",32,0,0,0,0,0,0,2025-01-07 13:59:59,39
+3000041,MAX SUPER SPECIALTY HOSPITAL SHALIMAR BAGH,"MAX SUPER SPECIALTY HOSPITAL SHALIMAR BAGH, Delhi, India",11,9,7,4,0,0,9,2025-01-07 15:39:15,11
+3000042,Vinayak Hospital,"Vinayak Hospital, Delhi, India",17,0,0,2,0,1,1,2025-01-06 16:19:35,44
+3000043,MGS Super Specialty Hospital,"MGS Super Specialty Hospital, Delhi, India",5,0,2,8,0,1,1,2025-01-07 15:11:05,40
+3000690,Jivodaya Hospital,"Jivodaya Hospital, Delhi, India",14,0,0,5,0,1,1,2024-11-01 10:32:02,25
+3000691,Sitaram Bharti Institute of Science & Research,"Sitaram Bharti Institute of Science & Research, Delhi, India",15,1,1,1,1,1,1,2025-01-07 09:01:20,90
+3000693,MEDEOR HOSPITAL DWARKA,"MEDEOR HOSPITAL DWARKA, Delhi, India",16,0,2,7,0,1,1,2023-01-01 12:51:35,22
+3000694,R L K C(Metro) Hospital,"R L K C(Metro) Hospital, Delhi, India",56,0,0,0,0,0,0,2025-01-07 16:32:57,54
+3000700,Madhukar Rainbow Hospital,"Madhukar Rainbow Hospital, Delhi, India",18,0,6,5,9,1,3,2024-11-02 13:08:42,13
+3000701,KAILASH DEEPAK HOSPITAL,"KAILASH DEEPAK HOSPITAL, Delhi, India",64,3,5,3,5,3,5,2025-01-06 12:05:06,32
+3000702,Shree Agarsain International Hospital,"Shree Agarsain International Hospital, Delhi, India",45,0,0,0,0,0,0,2025-12-07 12:15:57,10
+3000703,Venkateshwar Hospital,"Venkateshwar Hospital, Delhi, India",33,5,5,5,5,5,5,2024-01-01 17:42:04,25
+3000706,Human Care Medical Charitable Trust,"Human Care Medical Charitable Trust, Delhi, India",2,0,0,0,0,0,0,2025-01-06 10:06:08,18
+3000707,St. Stephens Hospital,"St. Stephens Hospital, Delhi, India",4,9,5,7,9,7,7,2025-01-07 08:37:23,26

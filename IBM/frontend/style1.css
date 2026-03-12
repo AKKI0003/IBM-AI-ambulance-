@@ -1,0 +1,39 @@
+/* style.css */
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: #f0f4f8;
+}
+
+.hospital-card {
+  border: 1px solid #ddd;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 0.5rem;
+  background: white;
+}
+
+/* --- Responsive Styles for Mobile and Tablets --- */
+
+/* This targets screens smaller than 768px (most phones and small tablets) */
+@media screen and (max-width: 768px) {
+  h1 {
+    font-size: 1.5rem; /* Make main title smaller */
+  }
+
+  .header p {
+    font-size: 1rem; /* Adjust subtitle font size */
+  }
+  
+  .form-section {
+    padding: 1rem !important; /* Reduce padding on the form */
+  }
+
+  .hospital-card {
+    font-size: 0.9rem; /* Slightly smaller font in hospital cards */
+  }
+
+  #map {
+    height: 300px; /* Make the map shorter on mobile */
+  }
+}
